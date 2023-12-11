@@ -1,13 +1,13 @@
 <p>😊Hey!</p><p>Hope something here can help you a little.</p>
 
-<a href="[https://x.com/brealinxx](https://img.shields.io/twitter/follow/brealinxx)" target="_blank"><img src="https://img.shields.io/twitter/follow/brealinxx"></a>
+<a href="https://x.com/brealinxx" target="_blank"><img src="https://img.shields.io/twitter/follow/brealinxx"></a>
 <a href="https://space.bilibili.com/84338778?spm_id_from=333.1007.0.0" target="_blank"><img src="https://img.shields.io/badge/bilibili-brealinxx-pink?link=https%3A%2F%2Fspace.bilibili.com%2F84338778%3Fspm_id_from%3D333.1007.0.0"></a>
 
 ---
 
 <div align="left">
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brealinxx&count_private=true&show_icons=true)]" />
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brealinxx&hide=HTML,TeX,ShaderLab" height="195px" weight="390px" />
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brealinxx&hide=HTML,TeX,ShaderLab&layout=compact" height="195px" />
 </div>
 
 
